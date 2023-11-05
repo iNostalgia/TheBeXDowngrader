@@ -47,4 +47,4 @@
 - [libideviceactivation](https://github.com/libimobiledevice/libideviceactivation) - libimobiledevice
 - [tsschecker](https://github.com/tihmstar/tsschecker) - tihmstar; [1Conan fork](https://github.com/1Conan/tsschecker) v413
 - [iBoot32Patcher](https://github.com/dora2-iOS/iBoot32Patcher/) - dora2ios fork
-- If i missed any while deleting please dm me on twitter (i mean X) @iNostalgia
+- If i missed any while deleting please dm me on twitter (i mean X) @iNostalgia0
